@@ -1,0 +1,16 @@
+ADFORT server running on port 3011
+[0mPOST /api/auth/login [32m200[0m 156.969 ms - 914[0m
+[0mPOST /api/auth/login [32m200[0m 107.998 ms - 926[0m
+[0mPOST /api/auth/login [32m200[0m 111.711 ms - 926[0m
+[0mPOST /api/auth/login [32m200[0m 107.175 ms - 914[0m
+[0mGET /api/businesses [32m200[0m 5.993 ms - 873[0m
+[0mPOST /api/industry/restaurant/menu-promo [32m200[0m 1085.378 ms - 280[0m
+[0mGET /api/analytics/d923b6db-7a1f-4eb3-8c3b-eab9bab148c4/overview [32m200[0m 13.207 ms - 349[0m
+[0mGET /api/admin/stats [32m200[0m 14.986 ms - 94[0m
+[0mGET /api/admin/users?page=1&limit=2 [32m200[0m 6.349 ms - 836[0m
+[0mPOST /api/auth/login [32m200[0m 120.262 ms - 926[0m
+[0mPOST /api/auth/login [32m200[0m 112.636 ms - 914[0m
+[0mGET /api/businesses [32m200[0m 3.842 ms - 873[0m
+[0mPOST /api/industry/dealership/vehicle-promo [32m200[0m 881.807 ms - 288[0m
+[0mGET /api/analytics/d923b6db-7a1f-4eb3-8c3b-eab9bab148c4/visibility-trend [32m200[0m 5.280 ms - 6244[0m
+[0mGET /api/admin/ai-usage [32m200[0m 4.652 ms - 1514[0m

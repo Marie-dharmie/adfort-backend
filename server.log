@@ -1,0 +1,31 @@
+
+> adfort-server@1.0.0 dev
+> ts-node-dev --respawn --transpile-only src/index.ts
+
+[INFO] 21:07:41 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.3)
+ADFORT server running on port 3001
+[0mGET /api/health [32m200[0m 3.581 ms - 15[0m
+[0mPOST /api/auth/register [32m201[0m 166.597 ms - 925[0m
+[0mPOST /api/auth/login [32m200[0m 113.746 ms - 925[0m
+[0mGET /api/auth/me [32m200[0m 3.960 ms - 250[0m
+[INFO] 21:11:48 Restarting: C:\Users\benja\Projects\adfort\server\src\services\business.service.ts has been modified
+ADFORT server running on port 3001
+[INFO] 21:12:50 Restarting: C:\Users\benja\Projects\adfort\server\src\routes\index.ts has been modified
+ADFORT server running on port 3001
+[INFO] 21:12:53 Restarting: C:\Users\benja\Projects\adfort\server\src\routes\index.ts has been modified
+ADFORT server running on port 3001
+[INFO] 21:13:09 Restarting: C:\Users\benja\Projects\adfort\server\src\services\review-ai.service.ts has been modified
+ADFORT server running on port 3001
+[INFO] 21:13:15 Restarting: C:\Users\benja\Projects\adfort\server\src\controllers\ai.controller.ts has been modified
+ADFORT server running on port 3001
+[INFO] 21:13:19 Reinitializing TS compilation
+[INFO] 21:13:19 Restarting: C:\Users\benja\Projects\adfort\server\tsconfig.json has been modified
+ADFORT server running on port 3001
+[INFO] 21:13:41 Restarting: C:\Users\benja\Projects\adfort\server\src\services\qrcode.service.ts has been modified
+ADFORT server running on port 3001
+[0mPOST /api/auth/login [32m200[0m 162.362 ms - 926[0m
+[0mPOST /api/ai/chat [31m500[0m 930.819 ms - 137[0m
+[0mPOST /api/auth/login [32m200[0m 138.680 ms - 926[0m
+[0mGET /api/reviews/514479c6-4b5a-42e1-af96-13cac1dd2279/stats [33m401[0m 3.954 ms - 28[0m
+[INFO] 21:14:25 Restarting: C:\Users\benja\Projects\adfort\server\src\services\ai.service.ts has been modified
+ADFORT server running on port 3001
